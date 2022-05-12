@@ -32,6 +32,8 @@ namespace DateTypeGenerator
             bool b = ((23432 < 1023 && 3942 > 2309342) || 2023 == 2342);
             Console.WriteLine(b);
 
+            Console.WriteLine(f1);
+
             // num1 is greater than both 5 AND num2 OR num2 is less than - 3
             // num1 is greater than both 5 AND num2
 
