@@ -49,7 +49,7 @@ namespace DateTypeGenerator
 
             if ( num1 < 100 && num1 > 100 )
             {
-
+                Console.WriteLine("This won't run");
             }
         }
 
